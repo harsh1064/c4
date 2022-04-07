@@ -1,0 +1,28 @@
+CRITICAL - 2022-02-15 22:11:01 --> syntax error, unexpected '}', expecting ';'
+#0 C:\wamp64\www\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\c...')
+#1 C:\wamp64\www\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-15 22:39:05 --> Invalid file: ./button.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./button.php')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('./button', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(141): view('./button')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-15 22:47:52 --> Invalid file: Pages/logout.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Pages/logout.ph...')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('Pages/logout', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(141): view('Pages/logout')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

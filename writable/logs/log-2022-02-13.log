@@ -1,0 +1,72 @@
+CRITICAL - 2022-02-13 23:24:29 --> Invalid file: Pages/login.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Pages/login.php')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('Pages/login', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(142): view('Pages/login')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-13 23:24:48 --> Invalid file: Pages/login.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Pages/login.php')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('Pages/login', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(142): view('Pages/login')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-13 23:26:54 --> Invalid file: Pages/login.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Pages/login.php')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('Pages/login', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(142): view('Pages/login')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-13 23:29:40 --> Invalid file: Pages/login.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Pages/login.php')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('Pages/login', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(142): view('Pages/login')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-13 23:30:35 --> Invalid file: Pages/login.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Pages/login.php')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('Pages/login', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(142): view('Pages/login')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-13 23:38:25 --> Invalid file: Pages/login.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Pages/login.php')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('Pages/login', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(142): view('Pages/login')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-13 23:39:54 --> Invalid file: Pages/login.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Pages/login.php')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('Pages/login', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(142): view('Pages/login')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-13 23:40:03 --> Invalid file: Pages/login.php
+#0 C:\wamp64\www\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Pages/login.php')
+#1 C:\wamp64\www\c4\system\Common.php(1089): CodeIgniter\View\View->render('Pages/login', Array, true)
+#2 C:\wamp64\www\c4\app\Controllers\Pages.php(142): view('Pages/login')
+#3 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->login()
+#4 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

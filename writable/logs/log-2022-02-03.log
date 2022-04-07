@@ -1,0 +1,12 @@
+CRITICAL - 2022-02-03 23:25:28 --> Too few arguments to function App\Controllers\Pages::edit(), 0 passed in C:\wamp64\www\c4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->edit()
+#1 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#2 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-03 23:30:46 --> Too few arguments to function App\Controllers\Pages::edit(), 0 passed in C:\wamp64\www\c4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\wamp64\www\c4\system\CodeIgniter.php(825): App\Controllers\Pages->edit()
+#1 C:\wamp64\www\c4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#2 C:\wamp64\www\c4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
